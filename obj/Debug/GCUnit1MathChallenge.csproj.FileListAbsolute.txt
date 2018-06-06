@@ -1,0 +1,6 @@
+c:\users\mozzey\source\repos\GCUnit1MathChallenge\bin\Debug\GCUnit1MathChallenge.exe.config
+c:\users\mozzey\source\repos\GCUnit1MathChallenge\bin\Debug\GCUnit1MathChallenge.exe
+c:\users\mozzey\source\repos\GCUnit1MathChallenge\bin\Debug\GCUnit1MathChallenge.pdb
+c:\users\mozzey\source\repos\GCUnit1MathChallenge\obj\Debug\GCUnit1MathChallenge.csproj.CoreCompileInputs.cache
+c:\users\mozzey\source\repos\GCUnit1MathChallenge\obj\Debug\GCUnit1MathChallenge.exe
+c:\users\mozzey\source\repos\GCUnit1MathChallenge\obj\Debug\GCUnit1MathChallenge.pdb
